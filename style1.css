@@ -1,0 +1,24 @@
+#wrapper {
+width: 1100px;
+margin: 10px auto;
+}
+
+#left {
+width: 200px;
+float: left;
+}
+
+#right {
+width: 250px;
+float: right;
+}
+
+#content {
+margin-left: 200px;
+margin-right: 250px;
+}
+
+
+#header, #content, #left, #right, #footer {
+outline: 1px solid red;
+}
